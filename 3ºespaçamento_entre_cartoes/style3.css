@@ -1,7 +1,7 @@
 body {
     background-color: bisque;
 }
-
+/*espaçamento entre cartões*/
 #container {
     display:flex ;/* podemos manipular todos os elementos filhos */
 }
@@ -18,7 +18,7 @@ body {
     text-align: center; /*alinhamento do texto*/
     height: 100%; /*altura*/
 }
-
+/**/
 footer {
     background-color: black;
     color: white;
