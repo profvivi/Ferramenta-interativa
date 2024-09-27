@@ -5,7 +5,7 @@ body {
 footer {
     background-color: black; /*cor de fundo do rodapé*/ 
     color: white; /*cor da fonte*/
-    bottom:0; /**/
+    bottom:0; /* para fixar o rodapé na parte inferior da página*/
     position:fixed; /*posição fixa*/
     width:100%; /*largura*/
     height:2rem;/*altura*/
