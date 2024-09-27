@@ -3,20 +3,20 @@ body {
 }
 
 #container {
-    display:flex ;/**/
+    display:flex ;/* podemos manipular todos os elementos filhos */
 }
 
 .cartao {
-    margin: 1rem 1rem; /**/
-    background-color: aqua; /**/
-    height: 20rem; /**/
-    flex-grow: 1; /**/
-    flex-basis: calc(33% -6rem); /**/
+    margin: 1rem 1rem; /* tamanho da margem*/
+    background-color: aqua; /* cor de fundo do cartão*/
+    height: 20rem; /*largura*/
+    flex-grow: 1; /*para que a disposição de todos os cartões seja igual na tela*/
+    flex-basis: calc(33% -6rem); /*Para dividir o espaço de tela em três partes*/
 }
 
 .cartao__conteudo {
-    text-align: center; /**/
-    height: 100%; /**/
+    text-align: center; /*alinhamento do texto*/
+    height: 100%; /*altura*/
 }
 
 footer {
@@ -33,3 +33,4 @@ footer p{
     font-size: 0.6rem;
     margin-top: 0,5rem;
 }
+
