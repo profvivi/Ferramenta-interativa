@@ -2,19 +2,6 @@ body {
     background-color: bisque; /*cor de fundo*/ 
 }
 
-#container {
-    display:flex ;
-}
-
-.cartao {
-    margin: 1rem 1rem;
-    background-color: aqua;
-    height: 20rem;
-    flex-grow: 1;
-    flex-basis: calc(33% -6rem);
-}
-
-
 footer {
     background-color: black; /*cor de fundo do rodapé*/ 
     color: white; /*cor da fonte*/
