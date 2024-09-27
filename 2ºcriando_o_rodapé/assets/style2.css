@@ -1,18 +1,18 @@
 body {
-    background-color: bisque;
+    background-color: bisque; /*cor de fundo*/ 
 }
 
 footer {
-    background-color: black;
-    color: white;
-    bottom:0;
-    position:fixed;
-    width:100%;
-    height:2rem;
+    background-color: black; /*cor de fundo do rodapé*/ 
+    color: white; /*cor da fonte*/
+    bottom:0; /**/
+    position:fixed; /*posição fixa*/
+    width:100%; /*largura*/
+    height:2rem;/*altura*/
 }
 
 footer p{
-    text-align: center;
-    font-size: 0.6rem;
-    margin-top: 0,5rem;
+    text-align: center; /*texto centralizado*/
+    font-size: 0.6rem; /*tamanho da fonte*/
+    margin-top: 0,5rem; /* margem superior*/
 }
