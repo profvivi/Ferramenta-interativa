@@ -1,7 +1,7 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #faafea;
-    --card-back-color: #ec00f4;
+    --card-front-color: #88076c;
+    --card-back-color: #f689fa;
     }
 
 body {
@@ -15,7 +15,7 @@ body {
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: #ec00f4;
+    background-color: #f689fa;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
