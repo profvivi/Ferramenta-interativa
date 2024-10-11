@@ -28,7 +28,7 @@ body {
 }
 
 .cartao__conteudo h3 {
-    background-color: tomato;
+    /*background-color: tomato;*/
     color: var(--text-color);
     border: 1px solid var(--text-color);
     text-align: left;
