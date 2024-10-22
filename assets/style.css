@@ -82,22 +82,7 @@ body {
     font-size: 1.4vw;
 }
 
-
     
-
-.caixa {
-   margin: 3px;
-    position: relative;
-    width: 50px;
-    height: 20px;
-    color: #151320;
-    background: #fff;
-    display: flex;
-   justify-content: center;
-    align-items: center;
-    border-radius: 3px;
-    font-weight: 700;
-}
 
 footer {
     background-color: black;
