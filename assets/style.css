@@ -11,9 +11,11 @@ body {
 
 #container {
     display:flex ;
-    flex-wrap: wrap;
+    flex-wrap: wrap;/* quebra de linha automática*/
+    justify-content: space-between; /*justificar o conteúdo*/
+    padding: 4rem; /**/
 }
-
+/**/
 .cartao {
     margin: 2rem 2rem;
     background-color: #f689fa;
