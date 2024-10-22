@@ -19,7 +19,7 @@ body {
     background-color: #f689fa;
     height: 20rem;
     flex-grow: 1;
-    flex-basis: calc(34% - 6rem);
+    flex-basis: calc(33% - 6.5rem);
 }
 
 .cartao__conteudo {
