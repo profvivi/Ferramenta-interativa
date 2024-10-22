@@ -15,11 +15,11 @@ body {
 }
 
 .cartao {
-    margin: 2.5rem 2.5rem;
+    margin: 2rem 2rem;
     background-color: #f689fa;
     height: 20rem;
     flex-grow: 1;
-    flex-basis: calc(33% - 6rem);
+    flex-basis: calc(34% - 6rem);
 }
 
 .cartao__conteudo {
