@@ -61,9 +61,13 @@ body {
     transform: rotateY(180deg);
 }
 
-.cartao__conteudo__pergunta,
-.cartao__conteudo__resposta {
+.cartao_conteudo_pergunta,
+.cartao_conteudo_resposta {
     backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .cartao__conteudo__resposta {
