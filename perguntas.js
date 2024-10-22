@@ -14,9 +14,7 @@ criaCartao(
     'Programação',
     'O que é JavaScript?',
     'O JavaScript é uma linguagem de programação.'
-)
-
-cartao.innerHTML = `
+    cartao.innerHTML = `
         <div class="cartao__conteudo">
         <h3>${categoria}</h3>
         <div class="cartao__conteudo__pergunta">
@@ -29,3 +27,5 @@ cartao.innerHTML = `
 `
 `
 container.appendChild(cartao)
+)
+
