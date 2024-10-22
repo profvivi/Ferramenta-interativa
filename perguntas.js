@@ -20,6 +20,7 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que é HTML?',
+    'Abrir',
     'O HTML (Linguagem de Marcação de HiperTexto)'
 )
 
