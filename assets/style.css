@@ -82,21 +82,9 @@ body {
     font-size: 1.4vw;
 }
 
-.caixa::before, .caixa::after {
-    content: '';
-    position: absolute;
-    z-index: -1;
-    width: calc(100% + 5px);
-    height: calc(100% + 5px);
-    background: linear-gradient(45deg, #c3c4c4, #979696, #646364, 
-    #839a9f, #d7d8d8, #9f9f9f, #939292, #646364);
-    background-size: 300%;
-    background-repeat: no-repeat;
-    background-position: 100%;
-    border-radius: 10px;
-    animation: AnimarBorda 4s linear infinite;
+
     
-}
+
 .caixa {
    margin: auto;
     position: relative;
