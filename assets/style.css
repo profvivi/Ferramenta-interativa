@@ -21,7 +21,7 @@ body {
     margin: 2rem 2rem;
     background-color: var(--card-back-color);
     height: 20rem;
-    flex-grow: 1;
+    flex-grow: 1rem;
     flex-basis: calc(33% - 6rem);
 }
 
