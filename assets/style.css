@@ -14,6 +14,7 @@ body {
     flex-wrap: wrap;/* quebra de linha automática*/
     justify-content: space-between; /*justificar o conteúdo*/
     padding: 4rem; /*centralizar o conteúdo do cartão*/
+    gap: 3rem;
 }
 /**/
 .cartao {
