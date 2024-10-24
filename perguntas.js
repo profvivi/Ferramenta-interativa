@@ -2,7 +2,7 @@ criaCartao(
     'Programação',
     'O que é HTML?',
     'O HTML (Linguagem de Marcação de HiperTexto)',
-    'imagem2.png'
+    'assets/img/imagem2.png'
 )
 
 criaCartao(
