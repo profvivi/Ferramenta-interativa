@@ -1,8 +1,8 @@
 criaCartao(
     'Programação',
     'O que é HTML?',
-    'O HTML (Linguagem de Marcação de HiperTexto)',
-    'imagem2.png'
+    'O HTML (Linguagem de Marcação de HiperTexto)'
+   
 )
 
 criaCartao(
