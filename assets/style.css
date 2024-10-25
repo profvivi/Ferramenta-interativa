@@ -9,14 +9,13 @@ body {
     font-family: Bai Jamjuree;
 }
 .navigation{
+    position: fixed;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 18px 40px;
     width: 100%;
-    background: var(--text-color);
     
-    position: fixed;
     
 }
 
