@@ -21,7 +21,7 @@ body {
 }
 
 .logo span{
-    color: var(--dark);
+    color: var(--card-back-color);
 }
 .navigation ul{
     display: flex;
