@@ -1,8 +1,7 @@
 criaCartao(
     'Programação',
     'O que é HTML?',
-    'O HTML (Linguagem de Marcação de HiperTexto)'
-   
+    'O HTML (Linguagem de Marcação de HiperTexto)' 
 )
 
 criaCartao(
@@ -14,8 +13,7 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação.'
-    
+    'O JavaScript é uma linguagem de programação.'    
 )
 
 criaCartao(
@@ -33,7 +31,6 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que é Full Stack?',
-    'A Full Stack developer é uma pessoa que trabalha tanto com Front-end quanto com Back-end.'
-    
+    'A Full Stack developer é uma pessoa que trabalha tanto com Front-end quanto com Back-end.'   
 ) 
 
