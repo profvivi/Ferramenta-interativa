@@ -8,35 +8,6 @@ body {
     background:url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
-.navigation{
-    position: fixed;
-    z-index: 1000;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 18px 40px;
-    width: 100%;
-    
-    
-}
-
-
-.navigation ul{
-    display: flex;
-    align-items: center;
-    gap: 2rem;
-}
-.navigation ul li a{
-    color: var(--card-front-color);
-    font-size: 17px;
-    font-weight: 500;
-    text-decoration: none;
-  
-}
-.navigation ul li a:hover{
-    color: var(--card-back-color);
-}
-
 
 
 #container {
