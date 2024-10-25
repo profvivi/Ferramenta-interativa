@@ -10,6 +10,7 @@ body {
 }
 .navigation{
     position: fixed;
+    z-index: 1000;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -26,14 +27,14 @@ body {
     gap: 2rem;
 }
 .navigation ul li a{
-    color: var(--card-back-color);
+    color: var(--card-front-color);
     font-size: 17px;
     font-weight: 500;
     text-decoration: none;
   
 }
 .navigation ul li a:hover{
-    color: var(--card-front-color);
+    color: var(--card-back-color);
 }
 
 
