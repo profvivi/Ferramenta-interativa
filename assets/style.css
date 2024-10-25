@@ -49,19 +49,7 @@ a{
     text-decoration: none;
     color: #1e1c2a;
 }
-.menu .bar{
-    display: block;
-    width: 28px;
-    height: 3px;
-    border-radius: 3px;
-    background: var(--dark);
-    margin: 5px auto;
-    transition: all 0.3s;
-}
-.menu .bar:nth-child(1),
-.menu .bar:nth-child(3){
-    background: var(--red);
-}
+
 
 #container {
     display:flex ;
