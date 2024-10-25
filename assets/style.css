@@ -20,9 +20,7 @@ body {
     
 }
 
-.logo span{
-    color: var(--card-back-color);
-}
+
 .navigation ul{
     display: flex;
     align-items: center;
