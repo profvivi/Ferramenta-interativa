@@ -32,6 +32,7 @@ body {
     color: var(--dark);
     font-size: 17px;
     font-weight: 500;
+    text-decoration: none;
   
 }
 .navigation ul li a:hover{
