@@ -21,7 +21,7 @@ body {
 .cartao {
     margin: 2rem 2rem;
     background-color: var(--card-back-color);
-    height: 16rem;
+    height: 18rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
