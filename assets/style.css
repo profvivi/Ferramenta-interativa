@@ -17,7 +17,7 @@ body {
     padding: 4rem; /*centralizar o conteúdo do cartão*/
     gap: 3rem;
 }
-/**/
+
 .cartao {
     margin: 2rem 2rem;
     background-color: var(--card-back-color);
